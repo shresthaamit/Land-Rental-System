@@ -1,0 +1,10 @@
+
+                 -----Rent Invoice-----
+            Customer Name:All
+            Rent Date:2024-08-30
+            Kitta Number:115
+            City:Bhimdatta
+            Land Faced:West
+            Total Anna:10
+            Total Amount:200000
+            

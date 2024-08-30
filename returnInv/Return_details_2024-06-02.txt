@@ -1,0 +1,10 @@
+
+                 -----Return Invoice-----
+            Kittan number: 113
+            Customer Name:son
+            City:Nepalgunj
+            Rent Date:2024-05-26
+            Return date:2024-06-02
+            Total Amount:360000
+            fine Amount:0
+            

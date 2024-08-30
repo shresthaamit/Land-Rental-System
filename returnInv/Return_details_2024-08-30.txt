@@ -1,0 +1,10 @@
+
+                 -----Return Invoice-----
+            Kittan number: 115
+            Customer Name:all
+            City:Bhimdatta
+            Rent Date:2024-08-30
+            Return date:2024-08-30
+            Total Amount:200000
+            fine Amount:0
+            

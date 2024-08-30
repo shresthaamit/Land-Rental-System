@@ -1,0 +1,11 @@
+
+                 -----Rent Invoice-----
+            Customer Name:Alam\
+            Rent Date:2024-05-20 19:20:03.460216
+            Kitta Number:113
+            City:Nepalgunj
+            Land Faced:East
+            Total Anna:6
+            Total Amount:432000
+            Availability Status:Available
+            
